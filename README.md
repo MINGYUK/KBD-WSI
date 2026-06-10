@@ -1,4 +1,4 @@
-# Min-Gyu's repo for WSI research
+# KBD's repo for WSI research
 ## Basic idea
  - Assumption 1: When patches get small enough but not too small, the patterns get very limited. It will resemble a compact codebook under vector quantization.
  - Assumption 2: Most patches carry little information. You probably don't need the entire KV table to get a representation for the whole slide.
